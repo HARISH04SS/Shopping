@@ -1,0 +1,82 @@
+[
+    {
+        "shop_id": 1,
+        "product_name": "Mens Shirts",
+        "product_thumb": "https://www.trueshirt.in/cdn/shop/products/IMG_20200627_112418.jpg?v=1593237410&width=600",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "100 - 1000",
+        "ProductDetails": "Material- 100% Premium Cotton Fit- Regular, Slim, or Relaxed Sizes Available- S, M, L, XL, XXL Colors- White, Blue, Black, Gray, Navy Sleeve Length- Long Sleeve, Short Sleeve Care Instructions- Machine Washable"
+    },
+    {
+        "shop_id": 2,
+        "product_name": "Womens Shirts",
+        "product_thumb": "https://images.meesho.com/images/products/344229221/xxvrl_512.webp",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "100 - 1000",
+        "ProductDetails":
+        "Material- 100% Silk / Cotton Blend / Polyester Fit- Regular, Slim, or Relaxed Sizes Available- XS, S, M, L, XL, XXL Colors- White, Black, Red, Blue, Pink, Green Sleeve Length- Long Sleeve, Short Sleeve, Sleeveless Care Instructions- Hand Wash or Machine Wash on Gentle Cycle"
+        
+    },
+    {
+        "shop_id": 3,
+        "product_name": "Mens Pants",
+        "product_thumb": "https://img.myshopline.com/image/store/1685231583821/Untitled-design-(17).png?w=1200&h=1200",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "100 - 1000",
+        "ProductDetails":
+        "Material- 98% Cotton, 2% Spandex Fit Slim, Regular, Relaxed Sizes Available- 28, 30, 32, 34, 36, 38, 40 Colors- Khaki, Navy, Black, Olive, GrayCare Instructions- Machine Washable"
+    },
+    {
+        "shop_id": 4,
+        "product_name": "Womens Pants",
+        "product_thumb": "https://vendorbusinessimages.s3.amazonaws.com/product/images/DxPxXmB77MMFn9yWK0GGvQSEj8rmOmCanauFJtPc.jpg",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "100 - 1000",
+        "ProductDetails":
+        "Material- 95% Polyester, 5% Spandex / Cotton Blend / Linen Fit Slim, Regular, or Wide-Leg Sizes Available- XS, S, M, L, XL, XXLColors Black, Navy, Gray, Beige, Olive, BurgundyLength Full-Length, Ankle-Length, CroppedCare Instructions- Machine Washable, Low Iron"
+        
+    },
+    {
+        "shop_id": 5,
+        "product_name": "Kids",
+        "product_thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD0pF3k0DCPjNL9ZPESAXoTd7lM4yp1EXIgw&s",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "100 - 1000",
+        "ProductDetails":
+        "Material- 100% Cotton Sizes Available 2T, 3T, 4T, 5T, 6, 7, 8, 9, 10 Colors- Pink, Blue, Yellow, Red, Green, PurplePatterns Floral, Polka Dots, Stripes, Solid Care Instructions- Machine Washable"
+    },
+    {
+        "shop_id": 6,
+        "product_name": "Unisex Collects",
+        "product_thumb": "https://c8.alamy.com/comp/2B85MNN/in-white-trendy-fashionable-couple-isolated-on-white-studio-background-caucasian-woman-and-man-posing-in-basic-minimal-unisex-clothes-concept-of-relations-fashion-beauty-love-inclusive-2B85MNN.jpg",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "100 - 1000",
+        "ProductDetails":
+        "Material- 80% Cotton, 20% Polyester Fit- Regular Sizes Available- XS, S, M, L, XL, XXL Colors- Black, White, Gray, Navy, Red, GreenCare Instructions- Machine Washable"
+    },
+    {
+        "shop_id": 7,
+        "product_name": "Skirts",
+        "product_thumb": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDGcGOSCgV1iTYPuZ9_t5V8bGsso4GHD63FJaUqCEXXCG_wSs2OTyt_reifVSmhaPGlrQfmcaSwh8RHZTIe2jfAIahb9WBjztiyZxJSaBW",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "100 - 1000",
+        "ProductDetails":
+        "Material- 100% Cotton / 100% Polyester / Cotton-Poly Blend Fit- High-Waisted, A-Line Sizes Available- XS, S, M, L, XL, XXL Colors- Black, Navy, White, Red, Floral, Striped Length- Knee-Length, Midi, MaxiCare Instructions- Machine Washable"
+    },
+    {
+        "shop_id": 8,
+        "product_name": "Shoes",
+        "product_thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo87Ery0ErrilR1U24d6tBVIpxMi5Rg_RuuQ&s",
+        "average_rating": 4.2,
+        "rating_text": "Very Good",
+        "cost": "100 - 1000",
+        "ProductDetails": "Material- Genuine Leather Upper, Rubber Sole Sizes Available- US 5 - 13 (Men), US 4 - 12 (Women) Colors- White, Black, Brown, Navy, Gray Care Instructions- Wipe Clean with a Damp Cloth"
+    }
+]
